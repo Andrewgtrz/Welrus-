@@ -5,5 +5,5 @@ Added a feature that allows a user to request a product Demo for Welrus. This fo
 ## Languages & Technologies
 - React 
 - Javascript
-- Formik / Yup for form validation
+- Formik / Yup form validation
 - Material UI
